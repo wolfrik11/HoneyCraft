@@ -1,0 +1,5 @@
+whitelist: true
+no_whitelisted: '&4Вы не в вайтлисте! &a&lНапишите в поддержку если что-то не так!'
+whitelisted:
+- Wolfrik_
+- wolfrik_

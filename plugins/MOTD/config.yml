@@ -1,0 +1,24 @@
+# Это описание сервера.
+Server-MOTD:
+  Line-1: '&6Honeycraft - &aОткрылся и ждёт тебя!'
+  Line-2: '&e&nВерсия: &a&l&n1.18-1.18.2'
+
+# Описание когда игрок заходит на сервер.
+JoinGame-MOTD:
+  Enabled: false
+  # Check forum for placeholders.
+  # Supported for PlaceholderAPI placeholders.
+  Messages:
+  - '&eWelcome to the server.'
+
+# Иконка сервера.
+Custom-Server-Icon:
+  # Set to true will load image from motd folder.
+  Enabled: true
+  # Make sure it's 64 x 64 pixels with png format.
+  Image: server-icon.png
+
+# Максимум игроков на сервере
+Server-Maximum-Players:
+  Modify: true
+  Maximum-Players: 100

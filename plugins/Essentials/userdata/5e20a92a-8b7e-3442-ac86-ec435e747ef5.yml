@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1649849574656
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1649847532110
+  login: 1649847586723
+money: '0'
+last-account-name: Wolfrik_
+lastlocation:
+  world: 8926a2fa-1d03-44b1-b893-4a9d7a68ace1
+  world-name: world
+  x: 200.13983276470412
+  y: 102.56349313741859
+  z: 165.49934293512706
+  yaw: -126.445068359375
+  pitch: 48.758968353271484
+logoutlocation:
+  world: 8926a2fa-1d03-44b1-b893-4a9d7a68ace1
+  world-name: world
+  x: -77.6604500586178
+  y: 105.0
+  z: 39.150337995071034
+  yaw: 169.75460815429688
+  pitch: 24.746849060058594
