@@ -1,0 +1,38 @@
+[04-13 14:01:45]: [INFO] Created column 'regdate' and set the current timestamp, 1649847705435, to all 0 rows
+[04-13 14:01:46]: [INFO] SQLite Setup finished
+[04-13 14:01:46]: [INFO] Hooked into LuckPerms!
+[04-13 14:01:46]: [INFO] Hooked successfully into Essentials
+[04-13 14:01:46]: [INFO] Essentials spawn file not found: 'E:\server\plugins\Essentials\spawn.yml'
+[04-13 14:01:46]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[04-13 14:01:46]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[04-13 14:01:48]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[04-13 14:01:48]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[04-13 14:01:48]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[04-13 14:01:48]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (Не удается найти указанный файл)
+[04-13 14:01:48]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (Не удается найти указанный файл)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftTask.run(CraftTask.java:82)
+	at org.bukkit.craftbukkit.v1_18_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[04-13 14:02:00]: [FINE] Wolfrik_ registered 127.0.0.1
+[04-13 14:02:01]: [FINE] Wolfrik_ logged in 127.0.0.1
+[04-13 14:03:34]: [INFO] Essentials spawn file not found: 'E:\server\plugins\Essentials\spawn.yml'
+[04-13 14:03:34]: [INFO] SQLite Setup finished
+[04-13 14:03:34]: [INFO] Unhooked from Permissions!
+[04-13 14:03:34]: [INFO] Hooked into LuckPerms!
+[04-13 14:03:34]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[04-13 14:05:13]: [INFO] Essentials spawn file not found: 'E:\server\plugins\Essentials\spawn.yml'
+[04-13 14:05:13]: [INFO] SQLite Setup finished
+[04-13 14:05:13]: [INFO] Unhooked from Permissions!
+[04-13 14:05:13]: [INFO] Hooked into LuckPerms!
+[04-13 14:05:13]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
